@@ -2,7 +2,10 @@
 
 **Proyecto:** Taller 2 – Ciencia de Datos Aplicada (MINE-4101)  
 **Integrantes:** Alejandro Pardo y Laura Fonseca  
-**Herramientas utilizadas:** Claude (Anthropic), ChatGPT (OpenAI) y Codex (OpenAI), utilizando las versiones más recientes disponibles de sus respectivos modelos durante el desarrollo del taller.  
+**Herramientas utilizadas:** 
+- Claude Opus 5.5 (Anthropic).
+- GPT-6 — ChatGPT (OpenAI).
+- Codex (OpenAI) — versión del modelo pendiente de confirmar. 
 **Porcentaje estimado de ayuda de IA:** 60 %.
 
 ## 1. Alcance del uso
